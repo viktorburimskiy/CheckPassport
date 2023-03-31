@@ -1,0 +1,58 @@
+C:\CheckPassport\CheckPassport\CheckPassport\bin\Debug\CheckPassport.exe.config
+C:\CheckPassport\CheckPassport\CheckPassport\bin\Debug\CheckPassport.exe
+C:\CheckPassport\CheckPassport\CheckPassport\bin\Debug\CheckPassport.pdb
+C:\CheckPassport\CheckPassport\CheckPassport\obj\x86\Debug\CheckPassport.csprojResolveAssemblyReference.cache
+C:\CheckPassport\CheckPassport\CheckPassport\obj\x86\Debug\CheckPassport.Form1.resources
+C:\CheckPassport\CheckPassport\CheckPassport\obj\x86\Debug\CheckPassport.Properties.Resources.resources
+C:\CheckPassport\CheckPassport\CheckPassport\obj\x86\Debug\CheckPassport.csproj.GenerateResource.Cache
+C:\CheckPassport\CheckPassport\CheckPassport\obj\x86\Debug\CheckPassport.exe
+C:\CheckPassport\CheckPassport\CheckPassport\obj\x86\Debug\CheckPassport.pdb
+C:\Users\u_m0lfm\Desktop\CheckPassport\CheckPassport\bin\Debug\CheckPassport.exe.config
+C:\Users\u_m0lfm\Desktop\CheckPassport\CheckPassport\obj\x86\Debug\CheckPassport.exe
+C:\Users\u_m0lfm\Desktop\CheckPassport\CheckPassport\obj\x86\Debug\CheckPassport.pdb
+C:\Users\u_m0lfm\Desktop\CheckPassport\CheckPassport\bin\Debug\CheckPassport.exe
+C:\Users\u_m0lfm\Desktop\CheckPassport\CheckPassport\bin\Debug\CheckPassport.pdb
+C:\Users\u_m0lfm\Desktop\CheckPassport\CheckPassport\obj\x86\Debug\CheckPassport.csprojResolveAssemblyReference.cache
+C:\Users\u_m0lfm\Desktop\CheckPassport\CheckPassport\obj\x86\Debug\Interop.Domino.dll
+C:\Users\u_m0lfm\Desktop\CheckPassport\CheckPassport\obj\x86\Debug\CheckPassport.csproj.ResolveComReference.cache
+C:\Users\u_m0lfm\Desktop\CheckPassport\CheckPassport\obj\x86\Debug\CheckPassport.Form1.resources
+C:\Users\u_m0lfm\Desktop\CheckPassport\CheckPassport\obj\x86\Debug\CheckPassport.Properties.Resources.resources
+C:\Users\u_m0lfm\Desktop\CheckPassport\CheckPassport\obj\x86\Debug\CheckPassport.csproj.GenerateResource.Cache
+D:\Разное\Наработки\Проверка паспортов\CheckPassport\CheckPassport\bin\Debug\CheckPassport.exe.config
+D:\Разное\Наработки\Проверка паспортов\CheckPassport\CheckPassport\obj\x86\Debug\Interop.Domino.dll
+D:\Разное\Наработки\Проверка паспортов\CheckPassport\CheckPassport\obj\x86\Debug\CheckPassport.csproj.ResolveComReference.cache
+D:\Разное\Наработки\Проверка паспортов\CheckPassport\CheckPassport\obj\x86\Debug\CheckPassport.exe
+D:\Разное\Наработки\Проверка паспортов\CheckPassport\CheckPassport\obj\x86\Debug\CheckPassport.pdb
+D:\Разное\Наработки\Проверка паспортов\CheckPassport\CheckPassport\bin\Debug\CheckPassport.exe
+D:\Разное\Наработки\Проверка паспортов\CheckPassport\CheckPassport\bin\Debug\CheckPassport.pdb
+D:\Разное\Наработки\Проверка паспортов\CheckPassport\CheckPassport\obj\x86\Debug\CheckPassport.csprojResolveAssemblyReference.cache
+D:\Разное\Наработки\Проверка паспортов\CheckPassport\CheckPassport\obj\x86\Debug\CheckPassport.Form1.resources
+D:\Разное\Наработки\Проверка паспортов\CheckPassport\CheckPassport\obj\x86\Debug\CheckPassport.Properties.Resources.resources
+D:\Разное\Наработки\Проверка паспортов\CheckPassport\CheckPassport\obj\x86\Debug\CheckPassport.csproj.GenerateResource.Cache
+C:\Users\u_m0lfm\Desktop\CheckPassport\CheckPassport\CheckPassport\bin\Debug\CheckPassport.exe.config
+C:\Users\u_m0lfm\Desktop\CheckPassport\CheckPassport\CheckPassport\obj\x86\Debug\Interop.Domino.dll
+C:\Users\u_m0lfm\Desktop\CheckPassport\CheckPassport\CheckPassport\obj\x86\Debug\CheckPassport.csproj.ResolveComReference.cache
+C:\Users\u_m0lfm\Desktop\CheckPassport\CheckPassport\CheckPassport\obj\x86\Debug\CheckPassport.exe
+C:\Users\u_m0lfm\Desktop\CheckPassport\CheckPassport\CheckPassport\obj\x86\Debug\CheckPassport.pdb
+C:\Users\u_m0lfm\Desktop\CheckPassport\CheckPassport\CheckPassport\bin\Debug\CheckPassport.exe
+C:\Users\u_m0lfm\Desktop\CheckPassport\CheckPassport\CheckPassport\bin\Debug\CheckPassport.pdb
+C:\Users\u_m0lfm\Desktop\CheckPassport\CheckPassport\CheckPassport\obj\x86\Debug\CheckPassport.csprojResolveAssemblyReference.cache
+C:\Users\u_m0lfm\Desktop\CheckPassport\CheckPassport\CheckPassport\obj\x86\Debug\CheckPassport.Form1.resources
+C:\Users\u_m0lfm\Desktop\CheckPassport\CheckPassport\CheckPassport\obj\x86\Debug\CheckPassport.Properties.Resources.resources
+C:\Users\u_m0lfm\Desktop\CheckPassport\CheckPassport\CheckPassport\obj\x86\Debug\CheckPassport.csproj.GenerateResource.Cache
+D:\Разное\Наработки\Проекты Studio\Проверка паспортов\CheckPassport\CheckPassport\CheckPassport\bin\Debug\CheckPassport.exe.config
+D:\Разное\Наработки\Проекты Studio\Проверка паспортов\CheckPassport\CheckPassport\CheckPassport\obj\x86\Debug\Interop.Domino.dll
+D:\Разное\Наработки\Проекты Studio\Проверка паспортов\CheckPassport\CheckPassport\CheckPassport\obj\x86\Debug\CheckPassport.csproj.ResolveComReference.cache
+D:\Разное\Наработки\Проекты Studio\Проверка паспортов\CheckPassport\CheckPassport\CheckPassport\obj\x86\Debug\CheckPassport.exe
+D:\Разное\Наработки\Проекты Studio\Проверка паспортов\CheckPassport\CheckPassport\CheckPassport\obj\x86\Debug\CheckPassport.pdb
+C:\Users\u_m0lfm\Desktop\CheckPassport\CheckPassport - копия\CheckPassport\bin\Debug\CheckPassport.exe.config
+C:\Users\u_m0lfm\Desktop\CheckPassport\CheckPassport - копия\CheckPassport\obj\x86\Debug\Interop.Domino.dll
+C:\Users\u_m0lfm\Desktop\CheckPassport\CheckPassport - копия\CheckPassport\obj\x86\Debug\CheckPassport.csproj.ResolveComReference.cache
+C:\Users\u_m0lfm\Desktop\CheckPassport\CheckPassport - копия\CheckPassport\obj\x86\Debug\CheckPassport.exe
+C:\Users\u_m0lfm\Desktop\CheckPassport\CheckPassport - копия\CheckPassport\obj\x86\Debug\CheckPassport.pdb
+C:\Users\u_m0lfm\Desktop\CheckPassport\CheckPassport - копия\CheckPassport\bin\Debug\CheckPassport.exe
+C:\Users\u_m0lfm\Desktop\CheckPassport\CheckPassport - копия\CheckPassport\bin\Debug\CheckPassport.pdb
+C:\Users\u_m0lfm\Desktop\CheckPassport\CheckPassport - копия\CheckPassport\obj\x86\Debug\CheckPassport.csprojResolveAssemblyReference.cache
+C:\Users\u_m0lfm\Desktop\CheckPassport\CheckPassport - копия\CheckPassport\obj\x86\Debug\CheckPassport.Form1.resources
+C:\Users\u_m0lfm\Desktop\CheckPassport\CheckPassport - копия\CheckPassport\obj\x86\Debug\CheckPassport.Properties.Resources.resources
+C:\Users\u_m0lfm\Desktop\CheckPassport\CheckPassport - копия\CheckPassport\obj\x86\Debug\CheckPassport.csproj.GenerateResource.Cache
